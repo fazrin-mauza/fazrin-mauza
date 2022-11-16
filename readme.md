@@ -42,20 +42,17 @@
 
 ### Github Stats 🚀
 
-<p align="center"><a href="https://github.com/fazrin-mauza"><img src="https://github-readme-stats.vercel.app/api?username=zeeone-ofc&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/fazrin-mauza"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeone-ofc&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/fazrin-mauza"><img src="https://github-readme-stats.vercel.app/api?username=fazrin-mauza&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/fazrin-mauza"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazrin-mauza&theme=radical&layout=compact"></a></p> 
 
 ### Repo Stats 🔭
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeone-ofc&repo=Alphabot-Md&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeone-ofc&repo=Alphab0t&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeone-ofc&repo=Haruka&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeone-ofc&repo=zeeone-ofc&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=fazrin-mauza&repo=fazrin-mauza&theme=dark)
 
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=zeeone-ofc)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=fazrin-mauza)
 
 </details>
 
