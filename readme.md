@@ -20,7 +20,7 @@
   <a href="https://youtube.com/c/xZrinva"><img src="https://img.shields.io/badge/YouTube-Zeeone Ofc-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/c/zeeoneofc" /><br>
   <a name=xZrinva&label=VIEWS&style=flat-square&color=orange" />
   <a href="https://github.com/fazrin-mauza"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="https://www.youtube.com/channel/UCdzWwbApjkyODby7_MoRYlA"><img src="https://img.shields.io/youtube/channel/subscribers/UCdzWwbApjkyODby7_MoRYlA?style=social" /> <br>
+  <a href="https://youtube.com/c/xZrinva"><img src="https://img.shields.io/youtube/channel/subscribers/xZrinva?style=social" /> <br>
   <a href="https://komarev.com/ghpvc/?username=fazrin-mauza&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=fazrin-mauza&color=green&style=flat-square&label=Profile+View"></a>
 </p>
 
